@@ -1,4 +1,5 @@
-This is a basic Login app coded with React and Typescript and styled with tailwindcss
+This is a basic Login app coded with React and Typescript and styled with tailwindcss.
+
 In this app:
 This program controls the login form inputs and displays the relevant error if there is an issue with the inputs.
 
